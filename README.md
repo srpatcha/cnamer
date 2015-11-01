@@ -1,3 +1,7 @@
+The code for this project really isn't good, if you're interested in this concept check out [redirect.name](https://github.com/holic/redirect.name) by [~holic](https://github.com/holic) instead.
+
+---
+
 # CNAMER
 
 Redirect a domain, with a CNAME (or any other record)
